@@ -15,7 +15,7 @@ Yazılım kullandığınız işletim sistemi, parça ve diğer yazılımların b
 - Swap alanınız / Takas alanı 
 - Sistemin şarjı ve güce takılı olup olmadığı
 - Sistemde takılı diskler
-### Ekran kartı sonra eklenecek :blush:
+### Ekran kartı modülünü bilmiyorum (hem windows hemde diğer işletim sistemlerinde çalışacak modül) :blush:
 
 ## Yazılım sürümleri
 - Python sürümü
